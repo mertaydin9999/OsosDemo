@@ -1,0 +1,90 @@
+.container {
+  width: 50%;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+}
+
+.container .detailsButtons {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  width: 70%;
+}
+.newTree {
+  width: 80%;
+}
+.container .detailsButtons button:nth-child(1) {
+  width: 100%;
+}
+.container .detailsButtons button:nth-child(2) {
+  background-color: #3c8618;
+  width: 100%;
+}
+.container .detailsButtons button:nth-child(3) {
+  background-color: #a61d24;
+  width: 100%;
+}
+
+.container .detailsButtons button:nth-child(2):hover {
+  background-color: #51b420;
+}
+.container .detailsButtons button:nth-child(3):hover {
+  background-color: #d5252e;
+}
+/* Location icin kullanilan guncelleme componenti  */
+.inputDiv .buttons {
+  display: flex;
+  width: 100%;
+  gap: 1em;
+  background-color: var(--color-surface-200);
+}
+.inputDiv {
+  display: none;
+}
+.inputDiv input {
+  width: 100%;
+}
+.inputDiv button:nth-child(1) {
+  background-color: #a61d24;
+  width: 100%;
+}
+.inputDiv button:nth-child(2) {
+  background-color: var(--color-primary-100);
+  width: 100%;
+}
+.container .visible {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  align-items: center;
+  width: 70%;
+  margin-top: 2em;
+  background-color: var(--color-surface-200);
+  padding: 2em;
+  border-radius: 0.3em;
+}
+
+@keyframes slideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(-20%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes slideDown {
+  0% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translateY(0%);
+  }
+}

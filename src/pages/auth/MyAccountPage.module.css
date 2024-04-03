@@ -1,0 +1,44 @@
+.my-account-photo-div {
+  height: 15em;
+  background-color: #fff;
+  border-radius: 50%;
+}
+.my-account-photo-div img {
+  border: 1px solid white;
+  aspect-ratio: 2/2;
+  object-fit: contain;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+}
+.my-account-info-div p {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+  font-weight: 400;
+}
+.my-account-h {
+  text-align: center;
+}
+.user-infos-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3em 0em;
+  margin: 0em 0em;
+  background-color: var(--color-surface-200);
+  padding: 1em;
+  width: 45%;
+  border-radius: 0.5em;
+}
+.my-account-info-div p span {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+  font-weight: 400;
+  color: #87bfe7;
+}
+.my-account-info-div {
+  background-color: var(--color-surface-100);
+  padding: 2em;
+  border-radius: 1em;
+}

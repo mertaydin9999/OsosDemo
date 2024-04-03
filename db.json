@@ -1,0 +1,441 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "title": "Vodafone Maslak",
+      "key": "1",
+      "children": [
+        {
+          "id": "424d5b84-2967-4aea-a086-26a50bc5e350",
+          "key": "424d5b84-2967-4aea-a086-26a50bc5e350",
+          "title": "reddet"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Vodafone_ITU",
+      "key": "2",
+      "children": [
+        {
+          "id": "49b9b1d8-e494-43f2-a327-08bf74a28ae0",
+          "key": "49b9b1d8-e494-43f2-a327-08bf74a28ae0",
+          "title": "vodafone2"
+        },
+        {
+          "id": "8f88b93e-4bc6-4450-a616-baabb6b10c82",
+          "key": "8f88b93e-4bc6-4450-a616-baabb6b10c82",
+          "title": "asdassa"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Meram Elektrik",
+      "key": "3",
+      "children": [
+        {
+          "id": "c38acc56-aced-4548-bf3d-9838d15f3e56",
+          "key": "c38acc56-aced-4548-bf3d-9838d15f3e56",
+          "title": "meram2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "PLC Yedas",
+      "key": "4",
+      "children": [
+        {
+          "id": "26cd3519-a756-45ad-ac22-9ab54c9a7712",
+          "key": "26cd3519-a756-45ad-ac22-9ab54c9a7712",
+          "title": "asd"
+        },
+        {
+          "id": "168457",
+          "key": "168457",
+          "title": "sss"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "PLC Mugla",
+      "key": "5",
+      "children": [
+        {
+          "id": "52f1434b-f9a3-4327-af7f-a26ebb868dee",
+          "key": "52f1434b-f9a3-4327-af7f-a26ebb868dee",
+          "title": "selmss"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Kutahya'dan Gelen Sayaclar",
+      "key": "7",
+      "children": [
+        {
+          "id": "530972eb-e23e-467b-ac27-cffa955ab90f",
+          "key": "530972eb-e23e-467b-ac27-cffa955ab90f",
+          "title": "sdada"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "ali_11.11.2022",
+      "key": "8",
+      "children": [
+        {
+          "id": "e2e29ed7-190f-408b-bcb3-462c325e59c9",
+          "key": "e2e29ed7-190f-408b-bcb3-462c325e59c9",
+          "title": "selamms"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "IKITELLI OSB",
+      "key": "9",
+      "children": [
+        {
+          "id": "71f95e0e-ccdc-419f-bdf2-7d5e81151b1e",
+          "key": "71f95e0e-ccdc-419f-bdf2-7d5e81151b1e",
+          "title": "ssd"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "makel2",
+      "key": "10",
+      "children": [
+        {
+          "id": "10-1",
+          "title": "Arge",
+          "key": "10-1",
+          "children": [
+            {
+              "id": "10-1-1",
+              "title": "Tasarim",
+              "key": "10-1-1"
+            },
+            {
+              "id": "10-1-2",
+              "title": "Yazilim",
+              "key": "10-1-2"
+            },
+            {
+              "id": "10-1-3",
+              "title": "Laboratuvar",
+              "key": "10-1-3",
+              "children": [
+                {
+                  "id": "10-1-3-1",
+                  "title": "Test Odasi",
+                  "key": "10-1-3-1",
+                  "children": [
+                    {
+                      "id": "10-1-3-1-1",
+                      "title": "Blok-1",
+                      "key": "10-1-3-1-1"
+                    },
+                    {
+                      "id": "10-1-3-1-2",
+                      "title": "Blok-2",
+                      "key": "10-1-3-1-2"
+                    },
+                    {
+                      "id": "10-1-3-1-3",
+                      "title": "Blok-3",
+                      "key": "10-1-3-1-3"
+                    },
+                    {
+                      "id": "10-1-3-1-4",
+                      "title": "Blok-4",
+                      "key": "10-1-3-1-4"
+                    },
+                    {
+                      "id": "10-1-3-1-5",
+                      "title": "Blok-5",
+                      "key": "10-1-3-1-5"
+                    },
+                    {
+                      "id": "10-1-3-1-6",
+                      "title": "Modem Panosu",
+                      "key": "10-1-3-1-6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "10-1-4",
+              "title": "Yasin Masa",
+              "key": "10-1-4"
+            }
+          ]
+        },
+        {
+          "id": "190678",
+          "key": "190678",
+          "title": "asd"
+        }
+      ]
+    },
+    {
+      "id": "939531",
+      "key": "939531",
+      "title": "makel3",
+      "children": [
+        {
+          "id": "323584",
+          "key": "323584",
+          "title": "makel4"
+        }
+      ]
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "customerName": "ABC Company",
+      "location": "Istanbul",
+      "contactFirstName": "Ahmet",
+      "contactLastName": "Yilmaz",
+      "contactTcNo": "12345678901",
+      "contactEmail": "ahmet@example.com",
+      "contactPhone": "5551234567",
+      "address": "Sample Neighborhood, Sample Street No: 1",
+      "description": "Tasks with ABC Company",
+      "networkMode": "",
+      "actions": ""
+    },
+    {
+      "id": "2",
+      "customerName": "DEF Ltd.",
+      "location": "Ankara",
+      "contactFirstName": "Ayse",
+      "contactLastName": "Kaya",
+      "contactTcNo": "23456789012",
+      "contactEmail": "ayse@example.com",
+      "contactPhone": "5552345678",
+      "address": "Sample Neighborhood, Sample Street No: 2",
+      "description": "Tasks with DEF Ltd.",
+      "actions": ""
+    },
+    {
+      "id": "3",
+      "customerName": "GHI Inc.",
+      "location": "Izmir",
+      "contactFirstName": "Mehmet",
+      "contactLastName": "Demir",
+      "contactTcNo": "34567890123",
+      "contactEmail": "mehmet@example.com",
+      "contactPhone": "5553456789",
+      "address": "Sample Neighborhood, Sample Street No: 3",
+      "description": "Tasks with GHI Inc.",
+      "actions": ""
+    },
+    {
+      "id": "4",
+      "customerName": "JKL Technology",
+      "location": "Bursa",
+      "contactFirstName": "Fatma",
+      "contactLastName": "Kara",
+      "contactTcNo": "45678901234",
+      "contactEmail": "fatma@example.com",
+      "contactPhone": "5554567890",
+      "address": "Sample Neighborhood, Sample Street No: 4",
+      "description": "Tasks with JKL Technology",
+      "actions": ""
+    },
+    {
+      "id": "5",
+      "customerName": "MNO Consulting",
+      "location": "Istanbul",
+      "contactFirstName": "Ali",
+      "contactLastName": "Yildiz",
+      "contactTcNo": "56789012345",
+      "contactEmail": "ali@example.com",
+      "contactPhone": "5555678901",
+      "address": "Sample Neighborhood, Sample Street No: 5",
+      "description": "Tasks with MNO Consulting",
+      "actions": ""
+    },
+    {
+      "id": "6",
+      "customerName": "PQR Ltd.",
+      "location": "Ankara",
+      "contactFirstName": "Zeynep",
+      "contactLastName": "Yilmaz",
+      "contactTcNo": "67890123456",
+      "contactEmail": "zeynep@example.com",
+      "contactPhone": "5556789012",
+      "address": "Sample Neighborhood, Sample Street No: 6",
+      "description": "Tasks with PQR Ltd.",
+      "actions": ""
+    },
+    {
+      "id": "7",
+      "customerName": "STU Construction",
+      "location": "Izmir",
+      "contactFirstName": "Emre",
+      "contactLastName": "Demir",
+      "contactTcNo": "78901234567",
+      "contactEmail": "emre@example.com",
+      "contactPhone": "5557890123",
+      "address": "Sample Neighborhood, Sample Street No: 7",
+      "description": "Tasks with STU Construction",
+      "actions": ""
+    },
+    {
+      "id": "9",
+      "customerName": "YZX Consulting",
+      "location": "Istanbul",
+      "contactFirstName": "Zehra",
+      "contactLastName": "Yildiz",
+      "contactTcNo": "90123456789",
+      "contactEmail": "zehra@example.com",
+      "contactPhone": "5559012345",
+      "address": "Sample Neighborhood, Sample Street No: 9",
+      "description": "Tasks with YZX Consulting",
+      "actions": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "firstName": "John",
+      "charge": "Yonetici",
+      "lastName": "Doe",
+      "description": "Lorem ipsum dolor sit amet",
+      "mail": "john.doe@example.com",
+      "phone": "555-555-5555",
+      "onayliMi": true,
+      "kilitliMi": false,
+      "password": "123123123"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "firstName": "Jane",
+      "charge": "Yonetici",
+      "lastName": "Smith",
+      "description": "Consectetur namepiscing elit",
+      "mail": "jane.smith@example.com",
+      "phone": "555-123-4567",
+      "onayliMi": false,
+      "kilitliMi": true,
+      "password": "123123123"
+    },
+    {
+      "id": "3",
+      "username": "alice_miller",
+      "firstName": "Alice",
+      "charge": "Ozel Kullanici",
+      "lastName": "Miller",
+      "description": "Sed do eiusmod tempor ",
+      "mail": "alice.miller@example.com ",
+      "phone": "555-987-6543",
+      "onayliMi": true,
+      "kilitliMi": false,
+      "password": "123123123"
+    }
+  ],
+  "admin": [
+    {
+      "firstName": "Mert",
+      "lastName": "Aydin",
+      "phone": "5369957737",
+      "mail": "mertaydin9999@hotmail.com",
+      "password": "alamonof7",
+      "confirm": "alamonof7",
+      "id": "1"
+    }
+  ],
+  "communication-unit": [
+    {
+      "id": "1",
+      "name": "Nport_Harici_Vodafone_ITU",
+      "seriNo": "359582080005337",
+      "phoneNumber": "05493267512",
+      "communicationType": "NB_IOT",
+      "model": "NPORT",
+      "description": "",
+      "networkMode": ""
+    },
+    {
+      "id": "2",
+      "name": "DC Test",
+      "seriNo": "100000000000000",
+      "phoneNumber": "05334445500",
+      "communicationType": "PLC",
+      "model": "PPORT",
+      "description": "vinn ip 5.11.237.246",
+      "networkMode": ""
+    },
+    {
+      "id": "3",
+      "name": "MERAM Elektrik Nport Dahili",
+      "seriNo": "359582089980696",
+      "phoneNumber": "05492890147",
+      "communicationType": "NB_IOT",
+      "model": "NPORT",
+      "description": "WPORT_IoT",
+      "networkMode": ""
+    },
+    {
+      "id": "4",
+      "name": "Kosova Makel Modem",
+      "seriNo": "356874088006265",
+      "phoneNumber": "05386882039",
+      "communicationType": "GPRS",
+      "model": "WPORT2",
+      "description": "",
+      "networkMode": ""
+    },
+    {
+      "id": "5",
+      "name": "Deneme_Uretim_2_IoT",
+      "seriNo": "359582089984839",
+      "phoneNumber": "05492890171",
+      "communicationType": "NB_IOT",
+      "model": "NPORT",
+      "description": "",
+      "networkMode": ""
+    },
+    {
+      "id": "6",
+      "name": "Nport_Dahili_Vodaone_ITU",
+      "seriNo": "359582089980704",
+      "phoneNumber": "05492890174",
+      "communicationType": "NB_IOT",
+      "model": "NPORT",
+      "description": "",
+      "networkMode": ""
+    },
+    {
+      "id": "7",
+      "name": "Aydem_Nport_Harici",
+      "seriNo": "359582089979086",
+      "phoneNumber": "05492890173",
+      "communicationType": "NB_IOT",
+      "model": "NPORT",
+      "description": "Aydem_Harici NB-IoT modem",
+      "networkMode": ""
+    },
+    {
+      "id": "8",
+      "name": "Yedaş_NPortD_1",
+      "seriNo": "359582089982239",
+      "phoneNumber": "05493267513",
+      "communicationType": "NB_IOT",
+      "model": "NPORT",
+      "description": "YEDAŞ NPORT DAHİLİ 1",
+      "networkMode": ""
+    }
+  ]
+}

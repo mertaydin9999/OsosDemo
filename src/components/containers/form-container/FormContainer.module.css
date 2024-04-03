@@ -1,0 +1,12 @@
+.container {
+  background-color: var(--color-surface-100);
+  margin: 1em auto;
+  padding: 2em;
+  border-radius: 0.3em;
+  max-width: 100%;
+  width: 100%;
+  animation: slideUp 1s forwards;
+}
+.container > form > div {
+  width: 32%;
+}

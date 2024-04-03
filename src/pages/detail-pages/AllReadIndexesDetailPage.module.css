@@ -1,0 +1,74 @@
+.header-div {
+  text-align: center;
+  color: #fff;
+  margin: 2em 1em;
+}
+.header-div h2 {
+  font-weight: 400;
+  background-color: var(--color-surface-100);
+  padding: 0.4em;
+  width: 100%;
+  margin: 0em auto;
+  font-size: 1.3em;
+  border-radius: 0.4em;
+}
+.detail-container ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1em;
+  height: 6em;
+}
+.detail-container ul li span {
+  font-weight: 600;
+  color: #b7e3fa;
+}
+.dropdowns-container {
+  margin: 1em;
+  display: flex;
+  gap: 0em 1em;
+  border-radius: 0.4em;
+}
+
+.dropdowns-container div {
+  padding: 0.5em 1.5em;
+  border-radius: 0.4em;
+  display: flex;
+  gap: 0em 1em;
+  align-items: center;
+  background-color: var(--color-surface-200);
+}
+.allgraphics {
+  display: flex;
+  flex-direction: row;
+  gap: 0em 1em;
+  background-color: var(--color-surface-100);
+  justify-content: space-between;
+}
+.allgraphics div {
+  width: 33%;
+  display: inline-block;
+  padding: 1em;
+  background-color: var(--color-surface-200);
+  border-radius: 0.4em;
+}
+.allgraphics div:nth-child(3) {
+  width: 33%;
+  display: inline-block;
+  padding: 0em;
+}
+.single-chart {
+  padding: 2em;
+  border-radius: 0.4em;
+  background-color: var(--color-surface-200);
+}
+.dropdowns-container .go-back-indexes {
+  background-color: var(--color-primary-100);
+  color: #fff;
+  cursor: pointer;
+}
+.dropdowns-container .go-back-indexes:hover {
+  background-color: var(--color-primary-300);
+  color: #f6f6f6;
+}

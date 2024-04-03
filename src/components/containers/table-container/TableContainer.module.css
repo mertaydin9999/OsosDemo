@@ -1,0 +1,6 @@
+.container {
+  overflow-x: scroll;
+  scrollbar-color: var(--color-primary-100) var(--color-surface-100);
+  border: 0.05em solid var(--color-surface-400);
+  border-radius: 0.5em;
+}

@@ -1,0 +1,10 @@
+.container {
+  border-radius: 0.5em;
+  display: flex;
+  gap: 0em 1em;
+  background-color: var(--color-surface-200);
+  margin: 1em;
+}
+.container div {
+  background-color: var(--color-surface-100);
+}

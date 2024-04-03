@@ -1,0 +1,6 @@
+.container {
+  color: #fff;
+}
+.container li span {
+  color: var(--color-primary-200) !important;
+}

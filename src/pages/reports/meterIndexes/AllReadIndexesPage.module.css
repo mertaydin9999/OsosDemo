@@ -1,0 +1,27 @@
+.filter-buttons {
+  display: flex;
+  gap: 0em 1em;
+  padding: 1em 0em;
+}
+.filter-buttons button {
+  display: flex;
+  align-items: center;
+  font-size: 1.1em;
+  gap: 0.5em;
+}
+.filter-buttons button:hover {
+  display: flex;
+  align-items: center;
+  font-size: 1.1em;
+  gap: 0.5em;
+  background-color: var(--color-primary-200);
+  color: #fff;
+  cursor: pointer;
+}
+.input-style {
+  outline: none;
+  border-radius: 0.2em;
+  border: none;
+  padding: 0.2em 0.5em;
+  width: 20%;
+}

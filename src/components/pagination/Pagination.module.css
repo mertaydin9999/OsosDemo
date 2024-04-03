@@ -1,0 +1,21 @@
+.pagenumbers {
+  display: flex;
+  gap: 0em 1em;
+  background-color: var(--color-primary-100);
+  padding: 0.6em 0.6em;
+  border-radius: 0.2em;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+.pages {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1em;
+}
+.activePageButton {
+  background-color: var(--color-surface-200);
+  color: #fff;
+  border: 1px solid var(--color-primary-100);
+}
